@@ -2,3 +2,6 @@
                               ---------------------
 
 A small, red team - oriented collection of Dotnet snippets.
+
+1. FailsafeCLR - Prevents a hosted CLR from taking down the host process when
+   `Environment.Exit()` is called.
